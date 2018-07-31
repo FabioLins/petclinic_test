@@ -21,7 +21,7 @@ public class PetClinicTest {
 		  
 		String title = driver.getTitle();
 	
-		Assert.assertTrue(title.contains("a Spring2 Framework"));
+		Assert.assertTrue(title.contains("a Spring Framework"));
 		
 	}
   
